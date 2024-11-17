@@ -32,7 +32,7 @@ function LandingPage() {
 
             <div className="buttons-container">
                 <button onClick={handleRegisterClick} className="main-button">Register as a Volunteer</button>
-                <a href="https://volunteer-connect-theta.vercel.app/" target="_self" rel="noopener noreferrer">
+                <a href="https://volunteer-connect-theta.vercel.app/" rel="noopener noreferrer">
                 <button className="secondary-button">Organization Login</button></a>
             </div>
 
